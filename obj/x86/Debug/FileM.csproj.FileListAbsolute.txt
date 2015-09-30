@@ -1,0 +1,12 @@
+C:\Projects\filem\bin\x86\Debug\MainSettings.Designer.cs
+C:\Projects\filem\bin\x86\Debug\MainSettings.settings
+C:\Projects\filem\bin\x86\Debug\FileM.exe.config
+C:\Projects\filem\bin\x86\Debug\FileM.exe
+C:\Projects\filem\bin\x86\Debug\FileM.pdb
+C:\Projects\filem\obj\x86\Debug\FileM.csprojResolveAssemblyReference.cache
+C:\Projects\filem\obj\x86\Debug\FileM.FileM.resources
+C:\Projects\filem\obj\x86\Debug\FileM.SettingsForm.resources
+C:\Projects\filem\obj\x86\Debug\FileM.Properties.Resources.resources
+C:\Projects\filem\obj\x86\Debug\FileM.csproj.GenerateResource.Cache
+C:\Projects\filem\obj\x86\Debug\FileM.exe
+C:\Projects\filem\obj\x86\Debug\FileM.pdb

@@ -1,0 +1,55 @@
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\bin\x64\Release\MainSettings.Designer.cs
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\bin\x64\Release\MainSettings.settings
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\bin\x64\Release\FileM.exe.config
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\bin\x64\Release\FileM.exe
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\bin\x64\Release\FileM.pdb
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FileM.Form1.resources
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FileM.Form2.resources
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FileM.Properties.Resources.resources
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FIleMonitor.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FileM.exe
+C:\Users\USER\Desktop\FileMonitor+BackUp\FileM\obj\x64\Release\FileM.pdb
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\bin\x64\Release\FileM.exe.config
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FileM.exe
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FileM.pdb
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\bin\x64\Release\MainSettings.Designer.cs
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\bin\x64\Release\MainSettings.settings
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\bin\x64\Release\FileM.exe
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\bin\x64\Release\FileM.pdb
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FileM.Form1.resources
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FileM.Form2.resources
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FileM.Properties.Resources.resources
+G:\safe_code\FileMonitor+BackUp 2.2.1\FileM\obj\x64\Release\FIleMonitor.csproj.GenerateResource.Cache
+G:\safe_code\FileMonitor+BackUp 2.2.2\FileM\bin\x64\Release\FileM.exe.config
+G:\safe_code\FileMonitor+BackUp 2.2.2\FileM\obj\x64\Release\FileM.exe
+G:\safe_code\FileMonitor+BackUp 2.2.2\FileM\obj\x64\Release\FileM.pdb
+J:\safe_code\FileMonitor+BackUp 2.2.2\FileM\bin\x64\Release\FileM.exe.config
+J:\safe_code\FileMonitor+BackUp 2.2.2\FileM\obj\x64\Release\FileM.exe
+J:\safe_code\FileMonitor+BackUp 2.2.2\FileM\obj\x64\Release\FileM.pdb
+H:\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe.config
+H:\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.exe
+H:\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.pdb
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe.config
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.exe
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.pdb
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\MainSettings.Designer.cs
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\MainSettings.settings
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.pdb
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.Form1.resources
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.Form2.resources
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.Properties.Resources.resources
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FIleMonitor.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\safe_code_files\_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FIleMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Amadeusz\Dysk Google\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe.config
+C:\Users\Amadeusz\Dysk Google\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.exe
+C:\Users\Amadeusz\Dysk Google\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.pdb
+H:\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe.config
+H:\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.exe
+H:\safe_code\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.pdb
+D:\source\1_good_[C#]_FileM\FileM_2.2.2\FileM\bin\x64\Release\FileM.exe.config
+D:\source\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.exe
+D:\source\1_good_[C#]_FileM\FileM_2.2.2\FileM\obj\x64\Release\FileM.pdb
+C:\Projects\filem\FileM\bin\x64\Release\FileM.exe.config
+C:\Projects\filem\FileM\obj\x64\Release\FileM.exe
+C:\Projects\filem\FileM\obj\x64\Release\FileM.pdb

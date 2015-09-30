@@ -1,0 +1,11 @@
+C:\Projects\filem\bin\x86\Release\MainSettings.Designer.cs
+C:\Projects\filem\bin\x86\Release\MainSettings.settings
+C:\Projects\filem\bin\x86\Release\FileM.exe.config
+C:\Projects\filem\bin\x86\Release\FileM.exe
+C:\Projects\filem\bin\x86\Release\FileM.pdb
+C:\Projects\filem\obj\x86\Release\FileM.FileM.resources
+C:\Projects\filem\obj\x86\Release\FileM.SettingsForm.resources
+C:\Projects\filem\obj\x86\Release\FileM.Properties.Resources.resources
+C:\Projects\filem\obj\x86\Release\FileM.csproj.GenerateResource.Cache
+C:\Projects\filem\obj\x86\Release\FileM.exe
+C:\Projects\filem\obj\x86\Release\FileM.pdb
